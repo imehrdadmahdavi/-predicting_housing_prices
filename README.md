@@ -23,7 +23,7 @@ Template code is provided in the `predicting_housing_pricesg.ipynb` notebook fil
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `predicting_housing_prices/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `predicting-housing-prices/` (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook predicting_housing_prices.ipynb
