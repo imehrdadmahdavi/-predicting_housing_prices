@@ -1,15 +1,12 @@
-# Machine Learning Engineer Nanodegree
-# Model Evaluation and Validation
-## Project: Predicting Boston Housing Prices
-
-### Install
-
 ## Predicting Housing Prices
+
+### Description
 
 Building and optimizing a machine learning model to predict housing prices statistical analysis sklearn cross validation grid search machine learning
 
+### Install
 
-This project requires **Python** and the following Python libraries installed:
+This project requires **Python 3.7** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
@@ -22,25 +19,25 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Template code is provided in the `boston_housing.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+Template code is provided in the `predicting_housing_pricesg.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete your work.
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `predicting_housing_prices/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook boston_housing.ipynb
+ipython notebook predicting_housing_prices.ipynb
 ```  
 or
 ```bash
-jupyter notebook boston_housing.ipynb
+jupyter notebook predicting_housing_prices.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
 
-The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing).
+The modified housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/).
 
 **Features**
 1.  `RM`: average number of rooms per dwelling
