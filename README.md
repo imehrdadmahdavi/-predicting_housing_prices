@@ -2,7 +2,7 @@
 
 ### Description
 
-Building and optimizing a machine learning model to predict housing prices statistical analysis sklearn cross validation grid search machine learning
+Building and optimizing a machine learning model to predict housing prices.
 
 ### Install
 
@@ -19,7 +19,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Template code is provided in the `predicting_housing_pricesg.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete your work.
+The code is provided in the `predicting_housing_pricesg.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete your work.
 
 ### Run
 
